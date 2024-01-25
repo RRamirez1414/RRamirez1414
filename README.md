@@ -1,6 +1,6 @@
 # Ramon Ramirez
 
-<p>Hi there!👋 I am a Front End Engineer currently working for <a href="https://electroniccaregiver.com/">Electronic Caregiver</a>. I love creating performant web applications with satisfying user interfaces and experiences and solving complex problems. Aside from work, I commonly read about growth and healthy mental balance, am ecstatic about playing video and board games, and love to learn about emerging technology.</p>
+<p>Hi there!👋 I am a Front End Engineer currently working for <a href="https://electroniccaregiver.com/">Electronic Caregiver</a>. I love creating performant web applications with satisfying user interfaces, and experiences and solving complex problems. Aside from work, I commonly read about growth and healthy mental balance, am ecstatic about playing video and board games, and love to learn about emerging technology.</p>
 
 <h3>Daily Languages & Tools</h3>
 <p>
